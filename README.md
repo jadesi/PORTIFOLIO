@@ -4,7 +4,7 @@
 
 >Portfólio
 
-Projeto contruído durante Bootcamp elasNaTach(); 2022.
+Projeto construído durante Bootcamp elasNaTach(); 2022.
 
 [🔗 Clique aqui para acessar](https://jadesi.github.io/portfolio/index.html)
 
